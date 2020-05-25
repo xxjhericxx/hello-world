@@ -1,2 +1,5 @@
 # hello-world
-newbie here
+
+hi newbie here
+I hope I learn a lot here
+
